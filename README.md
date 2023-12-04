@@ -1,5 +1,5 @@
 
-### <div align="left"><h2>Hi there , I'm Prasad Patharkar ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### <div align="left"><h2>Hi there , I'm Saikrishna Muttepawar ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 </h2></div>  
 
@@ -18,17 +18,13 @@
  
 
 ## Talking about Personal Stuffs:
-- 🔭 I’m currently working on [Spring Boot](https://github.com/prasadpatharkar03)  
+
+- 🌱 I’m currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/sai2211/)  
 
 
  
 
-- 🌱 I’m currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/Prasad03/)  
-
-
- 
-
-- ❓ Ask me about anything related to Spring Boot and related technologies  
+- ❓ Ask me about anything related to DSA and GCP Services 
 
 
  
@@ -39,13 +35,13 @@
 
  
 
-- 📬 How to reach me: [prasadpatharkar39@gmail.com](mailto:prasadpatharkar39@gmail.com)
+- 📬 How to reach me: [saimuttepawar1@gmail.com](mailto:saimuttepawar1@gmail.com)
 
  
 
   
 
-- 📝 [Resume](https://drive.google.com/file/d/1zbr5AZ98TQGE3QQUh0jIpaCEe8gFsNJC/view?usp=drivesdk)
+
 
  
 

@@ -7,7 +7,7 @@
 
 <div style="position: relative;">
 
-  <img src="https://i.ibb.co/gvYkqHW/Prasad-Logo.png" alt="Prasad-Logo" border="0" style="width: 70%; z-index: 1;">
+
 
   <div style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; z-index: 2;">
 
